@@ -27,7 +27,7 @@ I'm Mohammad Reza Sadeghi, a passionate front-end web developer and instructor w
 
 ## Contact
 - Email: m.r.sedghii@gmail.com
-- Telegram: [mr_sedghi]https://t.me/mr_sedghi
+- Telegram: [@mr_sedghi](https://t.me/mr_sedghi)
 - LinkedIn: [linkedin.com/in/mohammad-reza-sedghi](https://www.linkedin.com/in/mohammad-reza-sedghi-871587168/?trk=people-guest_people_search-card&originalSubdomain=ir)
 - Website: [mrsedghi.ir](http://mrsedghi.ir/)
 
