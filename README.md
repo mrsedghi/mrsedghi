@@ -27,9 +27,9 @@ I'm Mohammad Reza Sadeghi, a passionate front-end web developer and instructor w
 
 ## Contact
 - Email: m.r.sedghii@gmail.com
-- Telegram: https://t.me/mr_sedghi
-- LinkedIn: (https://www.linkedin.com/in/mohammad-reza-sedghi-871587168/?trk=people-guest_people_search-card&originalSubdomain=ir)
-- Website: [Your Portfolio](http://mrsedghi.ir/)
+- Telegram: [@mr_sedghi]https://t.me/mr_sedghi
+- LinkedIn: [linkedin.com/in/mohammad-reza-sedghi](https://www.linkedin.com/in/mohammad-reza-sedghi-871587168/?trk=people-guest_people_search-card&originalSubdomain=ir)
+- Website: [mrsedghi.ir](http://mrsedghi.ir/)
 
 <!---
 mrsedghi/mrsedghi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
